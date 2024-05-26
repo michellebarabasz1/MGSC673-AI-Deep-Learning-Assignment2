@@ -1,0 +1,2 @@
+# Deep Learning Model for Churn Prediction
+This project aims to develop a deep learning model to predict customer churn, focusing on a feedforward neural network (FNN) architecture using PyTorch. The project includes comprehensive data preprocessing, model development, and hyperparameter tuning to optimize performance. The final model demonstrates strong predictive capabilities with metrics such as accuracy, precision, recall, and F1 score, providing valuable insights for proactive customer retention strategies.
